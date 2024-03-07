@@ -1,6 +1,6 @@
 {
-  "name": "tea-TimeStamp",
-  "version": "1.0.0",
+  "name": "tea-timestamp",
+  "version": "1.0.1",
   "description": "TimeStamp Tea Testing",
   "main": "index.js",
   "type": "module",
