@@ -1,0 +1,10 @@
+{
+  "name": "tea-TimeStamp",
+  "version": "1.0.0",
+  "description": "TimeStamp Tea Testing",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/injecttor8/tea-TimeStamp.git",
+  "author": "ally",
+  "license": "ISC"
+}
